@@ -111,8 +111,7 @@ Transform <- function(df, type = matrix){
 # The function is designed to remove the user specified objects to prevent over-
 # writing the transformed files. Change the three user parameters, and re-run 
 # this whole R script. Recommend ctrl-A, ctrl-ENTER. 
-# To run lines of the function individually to follow the process, 
-# delete lines 85, 107-110. 
+ 
 
 ################################################################################# 
 # 4.0 - Transforms the network read in by the function
